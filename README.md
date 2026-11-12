@@ -1,6 +1,6 @@
-# 🇮🇩 Panduan Lengkap System Design (Bahasa Indonesia — Edisi Ramah Pemula hingga Siap Interview)
+# 🇮🇩 Panduan System Design 
 
-Selamat datang! 👋 Repositori ini adalah **Buku Pegangan Lengkap System Design berbahasa Indonesia** yang disusun dengan gaya *mentoring* **Senior / Principal Software Engineer** untuk membantu kamu—mulai dari **pemula (beginner)** hingga **menengah/senior**—memahami cara merancang sistem berskala besar dan **siap menghadapi System Design Interview**.
+Selamat datang! 👋 Repositori ini adalah **Buku Pegangan Lengkap System Design** yang disusun dengan gaya *mentoring* **Senior / Principal Software Engineer** untuk membantu kamu—mulai dari **pemula (beginner)** hingga **menengah/senior**—memahami cara merancang sistem berskala besar dan **siap menghadapi System Design Interview**.
 
 > _Materi ini diadaptasi, diterjemahkan, dan diperkaya secara mendalam dari repositori populer [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design), dilengkapi dengan **Analogi Dunia Nyata untuk Pemula**, **Catatan Trade-off Arsitek**, **Tips Menjawab Interview**, serta **Cheat Sheet Perhitungan Kapasitas**._
 
